@@ -1,0 +1,2 @@
+google-play-scraper==1.0.2
+XlsxWriter==3.0.1
